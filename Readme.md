@@ -39,3 +39,4 @@ Runnable runnableLambda = () -> System.out.println("Hello from lambda!");
 - *Target Typing*p
 - *Target Types and Method Arguments*
 - *Serialization*
+- **Method referencing in Java is a feature introduced in Java 8 as part of the functional programming enhancements. It provides a concise way to refer to existing methods and use them as lambda expressions or method references.**

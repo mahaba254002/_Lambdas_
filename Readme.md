@@ -39,6 +39,3 @@ Runnable runnableLambda = () -> System.out.println("Hello from lambda!");
 - *Target Typing*p
 - *Target Types and Method Arguments*
 - *Serialization*
-
-  ### Method Referencing
-  - provide a concise way to refer to methods or constructors in Java. They can be used as a replacement for lambda expressions when the lambda expression simply calls an existing method.
